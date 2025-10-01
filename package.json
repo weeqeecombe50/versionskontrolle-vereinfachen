@@ -1,0 +1,13 @@
+{
+  "name": "versionskontrolle-vereinfachen",
+  "version": "1.0.0",
+  "description": "Eine Software zur Vereinfachung der Versionskontrolle.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "MIT"
+}
