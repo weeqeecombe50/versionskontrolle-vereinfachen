@@ -1,7 +1,7 @@
 {
   "name": "versionskontrolle-vereinfachen",
   "version": "1.0.0",
-  "description": "Ein Tool zur Vereinfachung der Versionskontrolle in Softwareprojekten.",
+  "description": "Ein Tool, das die Versionskontrolle in Softwareprojekten vereinfacht.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
