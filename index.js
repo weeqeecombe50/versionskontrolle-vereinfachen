@@ -5,9 +5,9 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-  res.send('Willkommen bei Versionskontrolle Vereinfachen!');
+  res.send('Welcome to Version Control Simplified!');
 });
 
 app.listen(PORT, () => {
-  console.log(`Server läuft auf http://localhost:${PORT}`);
+  console.log(`Server is running on http://localhost:${PORT}`);
 });
