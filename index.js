@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-  res.send('Welcome to Version Control Simplified!');
+  res.send('Welcome to the simplified version control tutorial!');
 });
 
 app.listen(PORT, () => {
